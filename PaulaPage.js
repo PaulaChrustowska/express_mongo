@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 //const { result } = require('lodash');
 //const { render } = require('express/lib/response');
-const blogRoutes = require('../routes/blogRoutes');
+const blogRoutes = require('./routes/blogRoutes');
 
 
 
